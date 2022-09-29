@@ -1,0 +1,15 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#joustic {
+  display: block;
+  position: absolute;
+
+  z-index: 2;
+
+  bottom: 120px;
+  left: 120px;
+}
